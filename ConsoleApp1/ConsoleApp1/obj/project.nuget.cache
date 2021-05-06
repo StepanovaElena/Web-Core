@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "gMm7DYVSRObHMZVUbToTsPG7LOiZxG6HRAHi4v8Th16Sg6cmu8iU5GMtbwAwpZEAM0xeI0tDuUn6wmwrZ5Nsbw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Елена\\source\\repos\\WebCore\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Елена\\.nuget\\packages\\jering.iocservices.newtonsoft.json\\0.3.0\\jering.iocservices.newtonsoft.json.0.3.0.nupkg.sha512",
+    "C:\\Users\\Елена\\.nuget\\packages\\newtonsoft.json\\12.0.1\\newtonsoft.json.12.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
